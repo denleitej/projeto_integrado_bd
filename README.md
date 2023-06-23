@@ -7,7 +7,6 @@
 - Reprodução do protótipo em HTML e CSS.
 - Construção de projeto conceitual e o lógico.
 - Incorporação ao Terminal com a utilização do PostgreSQL.
-- Implementação no Servidor da Universidade de Vila Velha.
 
 ### Neste repositório estão: 
  - Projeto Conceitual do nosso banco de dados;
