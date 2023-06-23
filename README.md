@@ -16,4 +16,4 @@
 
 
 ### Observação Importante:
-- Em nossos testes e revisões antes da entrega, o arquivo para o brModelo apresentou um bug onde o Projeto Conceitual era aberto em branco. Caso isso aconteça, basta reabrir o arquivo algumas vezes, de preferência diretamente pelo brModelo na opção "Abrir arquivo". O problema é apenas visual, mas assim que o arquivo é aberto com sucesso os detalhes serão exibidos corretamente.
+- Em nossos testes e revisões antes da entrega, o arquivo para o brModelo apresentou um bug onde o Projeto Conceitual era aberto em branco. Caso isso aconteça, basta reabrir o arquivo algumas vezes, de preferência diretamente pelo brModelo na opção "Abrir arquivo". O problema é apenas visual, assim que o arquivo é aberto com sucesso os detalhes serão exibidos corretamente.
